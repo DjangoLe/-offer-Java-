@@ -1,4 +1,9 @@
 #### 导航
 ***
-[01、数组中重复的数字](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/01%E3%80%81%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
+[01、数组中重复的数字](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/01、找出数组中重复的数字.md)
+[02、二维数组中的查找](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/02、二维数组中的查找.md)
+[03、替换空格](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/03、替换空格.md)
+[04、从尾到头打印链表](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/04、从尾到头打印链表.md)
+[05、重建二叉树](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/05、重建二叉树.md)
+[06、二叉树的下一个节点](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/06、二叉树的下一个节点.md)
 
