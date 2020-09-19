@@ -10,6 +10,9 @@
 [08、斐波那契数列](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/08、斐波那契数列.md)<br/>
 [09、跳台阶](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/09、跳台阶.md)<br/>
 [10、变态跳台阶](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/10、变态跳台阶.md)<br/>
+[11、旋转数组的最小数字](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/11、旋转数组的最小数字.md)<br/>
+[12、矩阵中的路径](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/12、矩阵中的路径.md)<br/>
+[13、机器人的运动范围](https://github.com/DjangoLe/jianzhioffer--Java/blob/master/剑指offer/13、机器人的运动范围.md)<br/>
 
 
 
